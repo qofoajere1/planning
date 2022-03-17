@@ -1,0 +1,6 @@
+#secret
+
+secrets.txt.txt
+secret.txt
+
+.DS_store
